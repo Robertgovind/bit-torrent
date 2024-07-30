@@ -1,5 +1,6 @@
 import json
 import sys
+import bencodepy
 # import bencodepy - available if you need it!
 # import requests - available if you need it!
 # Examples:
